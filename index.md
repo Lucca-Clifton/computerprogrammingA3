@@ -14,7 +14,7 @@ OOP graphical calculator using processing
 
 Game to shoot asteroids with lasers
 
-![SpaceGame]()
+![SpaceGame](https://github.com/cocomiwk/computerprogrammingA3/blob/gh-pages/images/spacegame/spacegame.png?raw=true)
 
 [Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/spacegame)
 
