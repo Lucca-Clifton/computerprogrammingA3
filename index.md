@@ -10,4 +10,6 @@ OOP graphical calculator using processing
 
 [Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/calculator)
 
+### Space Game
+
 ## Programming Semester 2 Projects:
