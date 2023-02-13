@@ -8,6 +8,6 @@ OOP graphical calculator using processing
 
 ![Calculator](https://github.com/cocomiwk/computerprogrammingA3/blob/gh-pages/images/calc.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/calculator)
 
 ## Programming Semester 2 Projects:
