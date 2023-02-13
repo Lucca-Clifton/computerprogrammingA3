@@ -12,4 +12,10 @@ OOP graphical calculator using processing
 
 ### Space Game
 
+Game to shoot asteroids with lasers
+
+![SpaceGame]()
+
+[Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/spacegame)
+
 ## Programming Semester 2 Projects:
