@@ -1,0 +1,6 @@
+word = input('please enter a word to convert: ') #get word
+wordCount = len(word) #get length
+#print (wordCount)
+firstLetter = word[0]
+lastPart = word[1:]
+print('your word is: ', lastPart.lower(),firstLetter.lower(), sep='')
