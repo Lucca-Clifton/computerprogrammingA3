@@ -32,6 +32,6 @@ Drawing game with pixels
 
 Application that converts input to pig latin
 
-![Pig Latin](https://user-images.githubusercontent.com/111709553/220774126-ffb0d44f-359c-49b1-8ee4-d50882361195.png)
+![Pig Latin](https://user-images.githubusercontent.com/111709553/220774960-207d13d4-2e6f-40bb-a8a5-e62f553393c2.png)
 
 [Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/pig%20latin)
