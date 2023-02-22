@@ -3,4 +3,4 @@ wordCount = len(word) #get length
 #print (wordCount)
 firstLetter = word[0]
 lastPart = word[1:]
-print('your word is: ', lastPart.lower(),firstLetter.lower(), sep='')
+print('your word is: ', lastPart.lower(),firstLetter.lower(), "ay", sep='')
