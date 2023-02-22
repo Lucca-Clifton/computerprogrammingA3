@@ -27,3 +27,11 @@ Drawing game with pixels
 [Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/etchasketch)
 
 ## Programming Semester 2 Projects:
+
+### Pig Latin
+
+Application that converts input to pig latin
+
+![Pig Latin](https://user-images.githubusercontent.com/111709553/220774126-ffb0d44f-359c-49b1-8ee4-d50882361195.png)
+
+[Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/pig%20latin)
