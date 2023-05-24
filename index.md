@@ -8,6 +8,10 @@ You are a cat ninja. You dodge rocks. That's basically it.
 
 ![start](https://github.com/Lucca-Clifton/computerprogrammingA3/blob/gh-pages/images/start.png?raw=true)
 
+![during play](https://github.com/Lucca-Clifton/computerprogrammingA3/blob/gh-pages/images/during%20play.png?raw=true)
+
+![game over](https://github.com/Lucca-Clifton/computerprogrammingA3/blob/gh-pages/images/game%20over.png?raw=true)
+
 [Source Code](https://github.com/Lucca-Clifton/computerprogrammingA3/blob/gh-pages/src/Kitty%20Run/main.pyde)
 
 ## Programming Semester 1 Projects:
