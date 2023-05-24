@@ -1,6 +1,6 @@
 ## Welcome to Lucca's Programming Portfolio!
 
-## Email:
+## Email: luccclif9722@granitesd.org
 
 ## Group Project: Kitty Run
 
