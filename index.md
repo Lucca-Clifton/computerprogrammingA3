@@ -1,5 +1,13 @@
 ## Welcome to Lucca's Programming Portfolio!
 
+## Email:
+
+## Group Project: Kitty Run
+
+You are a cat ninja. You dodge rocks. That's basically it.
+
+[Kitty Run]
+
 ## Programming Semester 1 Projects:
 
 ### Calculator
@@ -35,3 +43,5 @@ Application that converts input to pig latin
 ![Pig Latin](https://user-images.githubusercontent.com/111709553/220774960-207d13d4-2e6f-40bb-a8a5-e62f553393c2.png)
 
 [Source Code](https://github.com/cocomiwk/computerprogrammingA3/tree/gh-pages/src/pig%20latin)
+
+
